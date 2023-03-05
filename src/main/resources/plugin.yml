@@ -1,0 +1,12 @@
+name: DiscoDash
+version: '${project.version}'
+main: be.mrtibo.discodash.DiscoDash
+api-version: 1.19
+prefix: Disco Dash
+authors: [ MrTibo ]
+description: Plugin for some Disco Dash features
+website: discodash.net
+commands:
+  discodash:
+    permission: discodash.admin
+    permission-message: "Nope"
